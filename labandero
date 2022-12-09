@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-sniper.herokuapp.com/epg/adoboTV.php?format=xml,https://iptv-sniper.herokuapp.com/epg/skycable.php?format=xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml"
 #EXTINF: -1 tvg-id="TeleRadyo.ph" tvg-name="DZZM Teleradyo" tvg-chno="8" tvg-logo="https://i.imgur.com/G36wUtQ.png" group-title="Singang TV | Local TV", Teleradyo
 https://m3u-editor.com/serve/sinigangtv/708021791
 
